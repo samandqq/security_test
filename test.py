@@ -1,4 +1,4 @@
 # amqp_url = '***REMOVED***'
 
 print("===========")
-print("***REMOVED***")
+print("-------")
