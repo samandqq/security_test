@@ -1,5 +1,4 @@
 xxxx
-
 ddd
 This is a simple python tool to parse the unittest/pytest Result files then save the test suites and cases execution information to the Mysql database.
 
@@ -51,3 +50,4 @@ positional arguments:
 optional arguments:
   -h, --help            show this help message and exit
 Example: python -m src.run C:/Users/cdiao2/test/PythonMySQL/xmlrunner api4firewall_DailyUT firewall UNITTEST
+test
